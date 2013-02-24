@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : MyWorld.c
- Author      :
+ Author      : arnithor@gmail.com
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
